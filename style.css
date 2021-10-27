@@ -1,0 +1,42 @@
+
+.tri{
+    margin-left: 25%;
+    
+}
+
+
+.triangle1{
+    width: 0px;
+    height: 0px;
+    
+    border-right: 80px solid transparent;
+    border-bottom: 80px solid blue;
+    border-left: 80px solid transparent;
+    position: absolute; 
+    z-index: 3;
+    
+}
+
+.triangle2{
+    width: 0px;
+    height: 0px;
+    top: 35px;
+    
+    border-right: 80px solid transparent;
+    border-bottom: 80px solid red;
+    border-left: 80px solid transparent;
+    position: absolute; 
+    z-index: 2;
+    
+}
+.triangle3{
+    width: 0px;
+    height: 0px;
+    top: 65px;
+    
+    border-right: 80px solid transparent;
+    border-bottom: 80px solid yellow;
+    border-left: 80px solid transparent;
+    position: absolute; 
+    z-index: 1;
+} 
