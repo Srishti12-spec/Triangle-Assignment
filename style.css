@@ -1,8 +1,16 @@
-
-.tri{
-    margin-left: 25%;
+ 
+ body{
+    margin: 0px;
+     padding: 0px;
+ }
+ .tri{
+    width: 200px;
+    margin: 100px auto ;
+    
     
 }
+ 
+
 
 
 .triangle1{
@@ -20,7 +28,7 @@
 .triangle2{
     width: 0px;
     height: 0px;
-    top: 35px;
+    top: 135px;
     
     border-right: 80px solid transparent;
     border-bottom: 80px solid red;
@@ -32,7 +40,7 @@
 .triangle3{
     width: 0px;
     height: 0px;
-    top: 65px;
+    top: 165px;
     
     border-right: 80px solid transparent;
     border-bottom: 80px solid yellow;
